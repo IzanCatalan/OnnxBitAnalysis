@@ -1,7 +1,8 @@
 # OnnxBitAnalysis
 Perform a search of invariant bits across multiple onnx nn models with a python script: studyBits.py
 
-------------------------------------------------------MAIN PROGRAM------------------------------------------------------------
+------MAIN PROGRAM------
+
 arguments usage:
 
 argv 1 -> onnx file -> model to be analysed
