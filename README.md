@@ -28,13 +28,23 @@ Quantise analysis has only been explored with a convolutional filter grouping st
 Python packages required:
 
 statistics
-tokenize
+
+tokenized
+
 numpy
+
 onnx
+
 json
+
 datetime
+
 typing
+
 struct
+
 collections
+
 bitarray
+
 time
