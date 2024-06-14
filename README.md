@@ -22,3 +22,19 @@ The sign bit is added later. Bits start counting from the most significant bit (
 Example of usage for a resnet model in fp32, with variable protection (VP) and a convolutional filter grouping strategy and the exponent bits to be analysed: "python3 studyBits.py resnet50.onnx var normal filter cnn 9" 
 
 Quantise analysis has only been explored with a convolutional filter grouping strategy.
+
+-------------------------
+
+Python packages required:
+
+statistics
+tokenize
+numpy
+onnx
+json
+datetime
+typing
+struct
+collections
+bitarray
+time
